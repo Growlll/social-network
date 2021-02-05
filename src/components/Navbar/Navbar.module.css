@@ -1,0 +1,27 @@
+.nav {
+  grid-area: m;
+  background-color: blue;
+}
+
+.list {
+  list-style-type: none;
+}
+
+.item {
+  margin-bottom: 5px;
+  border-radius: 4px 0 0 4px;
+  padding: 0 0 0 5px;
+}
+
+.item:hover {
+  background-color: #c4c4c4;
+}
+
+.item a {
+  color: white;
+  text-decoration: none;
+}
+
+.item > .active {
+  color: red;
+}

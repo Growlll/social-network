@@ -1,0 +1,35 @@
+.dialogs {
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+  padding: 10px;
+}
+
+.dialogsItems {
+  margin-bottom: 10px;
+  text-underline: none;
+}
+
+.dialog {
+  margin-bottom: 5px;
+}
+
+.active {
+  color: #d504ca;
+}
+
+.messagesBlock {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: #f7108b;
+  margin-bottom: 50px;
+}
+
+.sendBlock {
+  display: flex;
+  flex-direction: column;
+}
+
+.sendText {
+  margin-bottom: 5px;
+}

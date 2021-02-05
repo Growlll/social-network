@@ -1,0 +1,26 @@
+.page {
+    padding: 0 5px;
+    border: 1px solid grey;
+    background-color: #c4c4c4;
+    border-radius: 3px;
+    line-height: 100%;
+    cursor: pointer;
+}
+
+.pagination {
+    margin: 5px 0;
+}
+
+.pagination span {
+    display: inline-block;
+    margin: 0 5px;
+}
+
+.current {
+    font-weight: bold;
+    font-size: 20px;
+    padding: 0 5px;
+    border: 1px solid black;
+    background-color: grey;
+    border-radius: 3px;
+}

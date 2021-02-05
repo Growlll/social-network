@@ -1,0 +1,21 @@
+.users {
+    padding: 10px;
+}
+
+.user {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.userFollow {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.userPhoto {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}

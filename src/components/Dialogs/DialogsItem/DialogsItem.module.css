@@ -1,0 +1,16 @@
+.dialogsItems {
+  margin-bottom: 10px;
+  text-decoration: none;
+}
+
+.dialogsItems a {
+  text-decoration: none;
+}
+
+.dialog {
+  margin-bottom: 5px;
+}
+
+.active {
+  color: #d504ca;
+}
